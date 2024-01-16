@@ -9,7 +9,7 @@ import os
 
 #Email server setup 
 my_email = "sabrinalutfiyeva@gmail.com"
-password_key= "nviq ewpb iyqm qgyc"
+password_key= "*********"
 
 gmail_server = "smtp.gmail.com"
 gmail_port = 587
